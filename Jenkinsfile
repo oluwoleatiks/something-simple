@@ -19,6 +19,6 @@ pipeline {
        sh 'sudo yum remove maven -y'
      }
    }
-  }
+  
 }
 
